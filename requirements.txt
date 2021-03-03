@@ -1,0 +1,9 @@
+Languages & Libraries:
+python 3.8
+spark  3.0.2
+hadoop 2.7
+boto3
+openjdk-8
+Findspark
+os
+json
